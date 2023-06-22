@@ -26,6 +26,8 @@ header{
     background-color: black;
     color: white;
     text-align: center;
+    min-height: 150px;
+    padding-top: 30px;
 }
 
 header > h1{
@@ -49,12 +51,6 @@ a{
     padding-top: 1em;
     }
 
-a:hover{
-    color: black;
-    background-color: white;
-    padding: 5px;
-    border-radius: 3px;
-}
 
 header > p{
     padding-bottom: 50px;
